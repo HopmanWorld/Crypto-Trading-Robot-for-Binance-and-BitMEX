@@ -1,0 +1,459 @@
+2023-08-25 13:16:09,606 INFO :: Binance Futures Client successfully initialized
+2023-08-25 13:16:11,625 INFO :: Binance connection opened
+2023-08-25 13:28:30,109 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-25 13:28:30,114 INFO :: Binance Futures Client successfully initialized
+2023-08-25 13:28:32,260 INFO :: Binance connection opened
+2023-08-25 13:30:05,637 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-25 13:30:05,642 INFO :: Binance Futures Client successfully initialized
+2023-08-25 13:30:07,654 INFO :: Binance connection opened
+2023-08-25 13:31:07,034 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-25 13:31:07,038 INFO :: Binance Futures Client successfully initialized
+2023-08-25 13:31:09,002 INFO :: Binance connection opened
+2023-08-25 13:59:43,050 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-25 13:59:43,058 INFO :: Binance Futures Client successfully initialized
+2023-08-25 13:59:43,561 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-25 13:59:43,563 INFO :: Binance Futures Client successfully initialized
+2023-08-25 13:59:44,988 INFO :: Binance connection opened
+2023-08-25 13:59:45,411 INFO :: Binance connection opened
+2023-08-25 13:59:45,697 INFO :: Bitmex Client successfully initialized
+2023-08-25 13:59:45,744 INFO :: Bitmex Client successfully initialized
+2023-08-25 13:59:46,910 INFO :: Bitmex connection opened
+2023-08-25 13:59:47,118 INFO :: Bitmex connection opened
+2023-08-25 15:34:25,533 ERROR :: Bitmex connection error: Connection is already closed.
+2023-08-25 15:34:25,533 ERROR :: Binance connection error: Connection is already closed.
+2023-08-25 15:34:25,533 ERROR :: Bitmex connection error: Connection is already closed.
+2023-08-25 15:34:25,534 WARNING :: Bitmex Websocket connection closed
+2023-08-25 15:34:25,534 WARNING :: Binance Websocket connection closed
+2023-08-25 15:34:25,534 ERROR :: Binance connection error: Connection is already closed.
+2023-08-25 15:34:25,534 WARNING :: Bitmex Websocket connection closed
+2023-08-25 15:34:25,537 WARNING :: Binance Websocket connection closed
+2023-08-25 15:34:27,538 ERROR :: Bitmex connection error: [Errno 11001] getaddrinfo failed
+2023-08-25 15:34:27,539 WARNING :: Bitmex Websocket connection closed
+2023-08-25 15:34:27,539 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2023-08-25 15:34:27,539 WARNING :: Binance Websocket connection closed
+2023-08-25 15:34:27,540 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2023-08-25 15:34:27,541 ERROR :: Bitmex connection error: [Errno 11001] getaddrinfo failed
+2023-08-25 15:34:27,541 WARNING :: Binance Websocket connection closed
+2023-08-25 15:34:27,541 WARNING :: Bitmex Websocket connection closed
+2023-08-25 15:34:29,540 ERROR :: Bitmex connection error: [Errno 11001] getaddrinfo failed
+2023-08-25 15:34:29,540 WARNING :: Bitmex Websocket connection closed
+2023-08-25 15:34:29,541 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2023-08-25 15:34:29,541 WARNING :: Binance Websocket connection closed
+2023-08-25 15:34:29,543 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2023-08-25 15:34:29,543 WARNING :: Bitmex Websocket connection closed
+2023-08-25 15:34:29,543 WARNING :: Binance Websocket connection closed
+2023-08-25 15:34:32,357 INFO :: Bitmex connection opened
+2023-08-25 15:34:32,676 INFO :: Bitmex connection opened
+2023-08-25 15:34:33,523 INFO :: Binance connection opened
+2023-08-25 15:34:33,620 INFO :: Binance connection opened
+2023-08-25 19:14:02,076 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-25 19:14:02,084 INFO :: Binance Futures Client successfully initialized
+2023-08-25 19:14:04,017 INFO :: Binance connection opened
+2023-08-25 19:14:04,093 INFO :: Bitmex Client successfully initialized
+2023-08-25 19:14:04,877 INFO :: Bitmex connection opened
+2023-08-25 22:16:30,500 ERROR :: Bitmex connection error: Connection is already closed.
+2023-08-25 22:16:30,501 ERROR :: Binance connection error: Connection is already closed.
+2023-08-25 22:16:30,501 WARNING :: Bitmex Websocket connection closed
+2023-08-25 22:16:30,501 WARNING :: Binance Websocket connection closed
+2023-08-25 22:16:33,874 INFO :: Bitmex connection opened
+2023-08-25 22:16:34,406 INFO :: Binance connection opened
+2023-08-26 08:48:49,312 ERROR :: Binance connection error: Connection is already closed.
+2023-08-26 08:48:49,313 ERROR :: Bitmex connection error: Connection is already closed.
+2023-08-26 08:48:49,313 WARNING :: Binance Websocket connection closed
+2023-08-26 08:48:49,313 WARNING :: Bitmex Websocket connection closed
+2023-08-26 08:48:54,670 INFO :: Bitmex connection opened
+2023-08-26 08:48:54,689 INFO :: Binance connection opened
+2023-08-26 20:51:48,701 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:51:48,704 INFO :: Binance Futures Client successfully initialized
+2023-08-26 20:51:50,517 INFO :: Binance connection opened
+2023-08-26 20:51:50,861 INFO :: Bitmex Client successfully initialized
+2023-08-26 20:51:51,734 INFO :: Bitmex connection opened
+2023-08-26 20:54:03,894 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 20:54:22,237 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:54:23,854 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:54:27,393 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:54:29,041 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:54:37,441 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:54:43,545 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:54:45,168 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:54:49,652 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:54:59,382 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:55:01,889 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 20:55:59,978 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 20:57:12,191 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 20:58:00,256 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 20:58:00,256 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 20:58:03,512 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:05,141 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:05,143 WARNING :: Binance BTCUSDT: 2679 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:05,143 WARNING :: Binance BTCUSDT: 2678 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:06,050 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:06,051 WARNING :: Binance BTCUSDT: 3586 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:06,052 WARNING :: Binance BTCUSDT: 3587 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:07,584 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:07,586 WARNING :: Binance BTCUSDT: 5120 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:07,586 WARNING :: Binance BTCUSDT: 5121 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:09,148 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:09,149 WARNING :: Binance BTCUSDT: 6684 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:09,150 WARNING :: Binance BTCUSDT: 5191 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:09,150 WARNING :: Binance BTCUSDT: 5191 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:09,150 WARNING :: Binance BTCUSDT: 5191 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:09,150 WARNING :: Binance BTCUSDT: 5191 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:09,150 WARNING :: Binance BTCUSDT: 4598 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:09,150 WARNING :: Binance BTCUSDT: 4598 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:10,053 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:10,055 WARNING :: Binance BTCUSDT: 2509 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:10,940 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:10,942 WARNING :: Binance BTCUSDT: 2571 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:10,942 WARNING :: Binance BTCUSDT: 2571 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:10,942 WARNING :: Binance BTCUSDT: 2571 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:10,942 WARNING :: Binance BTCUSDT: 2571 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:10,942 WARNING :: Binance BTCUSDT: 2571 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:10,943 WARNING :: Binance BTCUSDT: 2572 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:10,943 WARNING :: Binance BTCUSDT: 2572 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:13,696 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:14,956 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:16,728 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:18,308 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:19,288 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:20,860 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:21,772 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:22,684 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:22,685 WARNING :: Binance BTCUSDT: 2298 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:22,686 WARNING :: Binance BTCUSDT: 2243 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:22,686 WARNING :: Binance BTCUSDT: 2243 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:22,686 WARNING :: Binance BTCUSDT: 2243 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:22,686 WARNING :: Binance BTCUSDT: 2243 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:22,686 WARNING :: Binance BTCUSDT: 2215 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:24,249 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:24,250 WARNING :: Binance BTCUSDT: 3779 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:24,252 WARNING :: Binance BTCUSDT: 2634 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:24,252 WARNING :: Binance BTCUSDT: 2634 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:27,289 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:28,877 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:28,878 WARNING :: Binance BTCUSDT: 2437 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:28,879 WARNING :: Binance BTCUSDT: 2376 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:28,879 WARNING :: Binance BTCUSDT: 2376 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:28,879 WARNING :: Binance BTCUSDT: 2376 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:29,820 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:29,822 WARNING :: Binance BTCUSDT: 3319 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:29,823 WARNING :: Binance BTCUSDT: 3038 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:31,412 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:31,414 WARNING :: Binance BTCUSDT: 4629 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:37,604 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:38,564 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:40,140 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:41,705 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:41,707 WARNING :: Binance BTCUSDT: 3358 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:41,709 WARNING :: Binance BTCUSDT: 3360 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:42,597 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:42,599 WARNING :: Binance BTCUSDT: 4250 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:45,413 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:47,349 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:48,889 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:48,890 WARNING :: Binance BTCUSDT: 2411 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:48,891 WARNING :: Binance BTCUSDT: 2412 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:48,891 WARNING :: Binance BTCUSDT: 2412 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:48,891 WARNING :: Binance BTCUSDT: 2411 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:50,433 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:50,434 WARNING :: Binance BTCUSDT: 3954 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:50,435 WARNING :: Binance BTCUSDT: 2509 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:50,435 WARNING :: Binance BTCUSDT: 2509 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:51,993 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:51,994 WARNING :: Binance BTCUSDT: 3307 milliseconds of difference between the current time and the trade time
+2023-08-26 20:58:54,245 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:57,449 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:59,013 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:58:59,942 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 20:59:00,901 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 20:59:00,901 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:00:00,310 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:00:00,310 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:01:16,077 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:01:16,077 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:01:41,821 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:02:03,236 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:02:03,236 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:03:02,340 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:03:02,341 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:03:27,099 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:03:28,734 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:03:28,735 WARNING :: Binance BTCUSDT: 3254 milliseconds of difference between the current time and the trade time
+2023-08-26 21:03:30,341 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:03:30,343 WARNING :: Binance BTCUSDT: 2995 milliseconds of difference between the current time and the trade time
+2023-08-26 21:04:08,451 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:04:08,451 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:05:10,155 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:05:10,155 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:06:09,815 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:06:09,815 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:07:02,559 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:07:02,559 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:07:42,334 INFO :: Bitmex missing 1 candles for XBTUSD 1m (1693080463100 1693080300000)
+2023-08-26 21:07:43,133 INFO :: Bitmex current XBT balance = 0.01, contracts number = 2.61605
+2023-08-26 21:07:43,134 INFO :: Long signal on XBTUSD 1m
+2023-08-26 21:07:43,900 ERROR :: Error while making POST request to /api/v1/order: {'error': {'message': 'Invalid orderQty', 'name': 'ValidationError'}} (error code 400)
+2023-08-26 21:08:20,185 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:08:20,185 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:08:59,937 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:08:59,937 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:10:12,227 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:10:12,227 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:10:59,845 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:10:59,845 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:12:00,934 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:12:00,934 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:13:02,702 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:13:02,702 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:13:32,433 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:13:33,557 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:13:33,558 WARNING :: Binance BTCUSDT: 2931 milliseconds of difference between the current time and the trade time
+2023-08-26 21:13:33,558 WARNING :: Binance BTCUSDT: 2931 milliseconds of difference between the current time and the trade time
+2023-08-26 21:13:34,689 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:13:34,690 WARNING :: Binance BTCUSDT: 4063 milliseconds of difference between the current time and the trade time
+2023-08-26 21:13:34,690 WARNING :: Binance BTCUSDT: 4063 milliseconds of difference between the current time and the trade time
+2023-08-26 21:13:36,504 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:13:36,505 WARNING :: Binance BTCUSDT: 5878 milliseconds of difference between the current time and the trade time
+2023-08-26 21:13:36,507 WARNING :: Binance BTCUSDT: 2746 milliseconds of difference between the current time and the trade time
+2023-08-26 21:13:36,507 WARNING :: Binance BTCUSDT: 2746 milliseconds of difference between the current time and the trade time
+2023-08-26 21:13:42,398 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:13:49,561 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:13:51,141 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:13:51,143 WARNING :: Binance BTCUSDT: 2397 milliseconds of difference between the current time and the trade time
+2023-08-26 21:13:52,708 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:13:52,709 WARNING :: Binance BTCUSDT: 2378 milliseconds of difference between the current time and the trade time
+2023-08-26 21:13:52,709 WARNING :: Binance BTCUSDT: 2290 milliseconds of difference between the current time and the trade time
+2023-08-26 21:13:53,642 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:13:53,643 WARNING :: Binance BTCUSDT: 3224 milliseconds of difference between the current time and the trade time
+2023-08-26 21:13:53,643 WARNING :: Binance BTCUSDT: 3224 milliseconds of difference between the current time and the trade time
+2023-08-26 21:13:54,590 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:13:54,591 WARNING :: Binance BTCUSDT: 4172 milliseconds of difference between the current time and the trade time
+2023-08-26 21:13:54,592 WARNING :: Binance BTCUSDT: 4173 milliseconds of difference between the current time and the trade time
+2023-08-26 21:13:54,592 WARNING :: Binance BTCUSDT: 4173 milliseconds of difference between the current time and the trade time
+2023-08-26 21:13:54,593 WARNING :: Binance BTCUSDT: 4130 milliseconds of difference between the current time and the trade time
+2023-08-26 21:13:54,593 WARNING :: Binance BTCUSDT: 4130 milliseconds of difference between the current time and the trade time
+2023-08-26 21:13:54,593 WARNING :: Binance BTCUSDT: 2506 milliseconds of difference between the current time and the trade time
+2023-08-26 21:13:54,593 WARNING :: Binance BTCUSDT: 2506 milliseconds of difference between the current time and the trade time
+2023-08-26 21:13:55,529 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:13:59,311 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:01,556 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:02,736 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:02,738 WARNING :: Binance BTCUSDT: 2779 milliseconds of difference between the current time and the trade time
+2023-08-26 21:14:04,073 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:14:05,322 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:05,324 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:14:06,522 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:08,366 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:08,368 WARNING :: Binance BTCUSDT: 3728 milliseconds of difference between the current time and the trade time
+2023-08-26 21:14:09,572 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:09,573 WARNING :: Binance BTCUSDT: 2752 milliseconds of difference between the current time and the trade time
+2023-08-26 21:14:09,574 WARNING :: Binance BTCUSDT: 2753 milliseconds of difference between the current time and the trade time
+2023-08-26 21:14:09,574 WARNING :: Binance BTCUSDT: 2753 milliseconds of difference between the current time and the trade time
+2023-08-26 21:14:09,574 WARNING :: Binance BTCUSDT: 2753 milliseconds of difference between the current time and the trade time
+2023-08-26 21:14:09,574 WARNING :: Binance BTCUSDT: 2753 milliseconds of difference between the current time and the trade time
+2023-08-26 21:14:09,574 WARNING :: Binance BTCUSDT: 2753 milliseconds of difference between the current time and the trade time
+2023-08-26 21:14:09,574 WARNING :: Binance BTCUSDT: 2753 milliseconds of difference between the current time and the trade time
+2023-08-26 21:14:09,575 WARNING :: Binance BTCUSDT: 2734 milliseconds of difference between the current time and the trade time
+2023-08-26 21:14:09,575 WARNING :: Binance BTCUSDT: 2734 milliseconds of difference between the current time and the trade time
+2023-08-26 21:14:09,575 WARNING :: Binance BTCUSDT: 2734 milliseconds of difference between the current time and the trade time
+2023-08-26 21:14:10,772 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:10,774 WARNING :: Binance BTCUSDT: 3933 milliseconds of difference between the current time and the trade time
+2023-08-26 21:14:15,035 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:23,807 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:25,969 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:27,580 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:27,581 WARNING :: Binance BTCUSDT: 2682 milliseconds of difference between the current time and the trade time
+2023-08-26 21:14:29,137 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:29,138 WARNING :: Binance BTCUSDT: 3015 milliseconds of difference between the current time and the trade time
+2023-08-26 21:14:29,139 WARNING :: Binance BTCUSDT: 2602 milliseconds of difference between the current time and the trade time
+2023-08-26 21:14:30,727 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:30,728 WARNING :: Binance BTCUSDT: 4191 milliseconds of difference between the current time and the trade time
+2023-08-26 21:14:33,537 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:34,460 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:36,027 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:37,580 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:37,581 WARNING :: Binance BTCUSDT: 2128 milliseconds of difference between the current time and the trade time
+2023-08-26 21:14:37,582 WARNING :: Binance BTCUSDT: 2129 milliseconds of difference between the current time and the trade time
+2023-08-26 21:14:37,582 WARNING :: Binance BTCUSDT: 2129 milliseconds of difference between the current time and the trade time
+2023-08-26 21:14:42,757 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:43,689 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:45,301 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:45,302 WARNING :: Binance BTCUSDT: 2883 milliseconds of difference between the current time and the trade time
+2023-08-26 21:14:50,113 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:51,661 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:53,313 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:54,841 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:56,418 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:14:58,631 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:15:03,198 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:15:03,198 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 21:40:36,085 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:40:36,088 INFO :: Binance Futures Client successfully initialized
+2023-08-26 21:40:38,015 INFO :: Binance connection opened
+2023-08-26 21:40:38,056 INFO :: Bitmex Client successfully initialized
+2023-08-26 21:40:38,785 INFO :: Bitmex connection opened
+2023-08-26 21:43:44,819 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 21:43:44,822 INFO :: Binance Futures Client successfully initialized
+2023-08-26 21:43:46,567 INFO :: Bitmex Client successfully initialized
+2023-08-26 21:43:46,715 INFO :: Binance connection opened
+2023-08-26 21:43:47,328 INFO :: Bitmex connection opened
+2023-08-26 22:27:53,411 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-08-26 22:27:55,506 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-08-26 22:27:55,514 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-08-26 22:27:57,072 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1693085275513&signature=aedee8f4f290cd8867cb541c89fc4b05c734e76d6f7c1c65a71e3bb7cbced9fe HTTP/1.1" 400 87
+2023-08-26 22:27:57,072 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-26 22:27:57,075 INFO :: Binance Futures Client successfully initialized
+2023-08-26 22:27:57,076 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-08-26 22:27:58,419 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-08-26 22:27:58,560 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-08-26 22:27:58,911 INFO :: Binance connection opened
+2023-08-26 22:27:58,911 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-08-26 22:27:59,263 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-08-26 22:27:59,270 INFO :: Bitmex Client successfully initialized
+2023-08-26 22:27:59,980 INFO :: Bitmex connection opened
+2023-08-26 22:31:11,539 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-08-26 22:31:12,616 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/trade/bucketed?symbol=XBTUSD&partial=True&binSize=1m&count=500&reverse=True HTTP/1.1" 200 None
+2023-08-26 22:32:09,037 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-08-26 22:32:10,874 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/klines?symbol=BTCUSDT&interval=1m&limit=1000 HTTP/1.1" 200 None
+2023-08-26 22:32:11,194 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2023-08-26 22:33:11,190 INFO :: Bitmex missing 2 candles for XBTUSD 1m (1693085592100 1693085400000)
+2023-08-26 22:33:21,666 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:34:09,740 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:35:01,728 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:36:01,971 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:37:07,954 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:37:59,711 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:39:00,072 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:40:22,607 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:41:05,878 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:42:03,878 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:43:03,953 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:43:59,657 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:45:01,901 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-08-26 22:45:02,766 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/trade/bucketed?symbol=XBTUSD&partial=True&binSize=1m&count=500&reverse=True HTTP/1.1" 200 None
+2023-08-26 22:45:04,891 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:45:59,864 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:47:01,848 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:47:59,922 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:49:02,039 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:50:00,002 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:51:01,887 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:52:16,162 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:53:03,641 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:54:11,688 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:54:59,818 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:56:03,717 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:57:04,534 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:58:01,383 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 22:59:05,651 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 23:00:01,829 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 23:00:59,321 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 23:02:02,073 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 23:03:21,895 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 23:03:59,880 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 23:05:01,957 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 23:05:59,887 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 23:07:23,960 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 23:08:01,672 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 23:09:07,651 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 23:10:01,621 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 23:11:01,256 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 23:12:43,093 WARNING :: Binance BTCUSDT: 38403 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:43,093 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 23:12:43,097 WARNING :: Binance BTCUSDT: 38407 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:43,097 WARNING :: Binance BTCUSDT: 38407 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:43,097 WARNING :: Binance BTCUSDT: 38406 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:43,849 WARNING :: Binance BTCUSDT: 39052 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:43,850 WARNING :: Binance BTCUSDT: 39026 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:43,851 WARNING :: Binance BTCUSDT: 37968 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:43,851 WARNING :: Binance BTCUSDT: 37423 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:43,851 WARNING :: Binance BTCUSDT: 36784 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:43,851 WARNING :: Binance BTCUSDT: 31108 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:43,852 WARNING :: Binance BTCUSDT: 25386 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:43,852 WARNING :: Binance BTCUSDT: 25386 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:43,852 WARNING :: Binance BTCUSDT: 25386 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:43,852 WARNING :: Binance BTCUSDT: 25385 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:43,852 WARNING :: Binance BTCUSDT: 25385 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:44,205 WARNING :: Binance BTCUSDT: 25709 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:44,205 WARNING :: Binance BTCUSDT: 25709 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:44,206 WARNING :: Binance BTCUSDT: 22172 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:44,206 WARNING :: Binance BTCUSDT: 14884 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:44,206 WARNING :: Binance BTCUSDT: 13793 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:44,206 WARNING :: Binance BTCUSDT: 10759 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:44,207 WARNING :: Binance BTCUSDT: 10760 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:44,207 WARNING :: Binance BTCUSDT: 10745 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:44,207 WARNING :: Binance BTCUSDT: 10745 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:44,561 WARNING :: Binance BTCUSDT: 11072 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:44,561 WARNING :: Binance BTCUSDT: 9837 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:44,562 WARNING :: Binance BTCUSDT: 6304 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:44,562 WARNING :: Binance BTCUSDT: 5208 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:44,562 WARNING :: Binance BTCUSDT: 5208 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:44,563 WARNING :: Binance BTCUSDT: 3853 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:44,563 WARNING :: Binance BTCUSDT: 3853 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:44,564 WARNING :: Binance BTCUSDT: 3854 milliseconds of difference between the current time and the trade time
+2023-08-26 23:12:59,735 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 23:13:59,674 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 23:14:59,769 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 23:16:01,905 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 23:17:23,750 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-26 23:59:33,449 ERROR :: Bitmex connection error: Connection is already closed.
+2023-08-26 23:59:33,449 WARNING :: Bitmex Websocket connection closed
+2023-08-26 23:59:33,615 ERROR :: Binance connection error: Connection is already closed.
+2023-08-26 23:59:33,615 WARNING :: Binance Websocket connection closed
+2023-08-26 23:59:36,157 INFO :: Bitmex connection opened
+2023-08-26 23:59:37,503 INFO :: Binance connection opened
+2023-08-26 23:59:37,504 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-08-26 23:59:37,504 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2023-08-26 23:59:39,205 WARNING :: Bitmex XBTUSD: 201705 milliseconds of difference between the current time and the trade time
+2023-08-26 23:59:39,205 INFO :: Bitmex missing 82 candles for XBTUSD 1m (1693090577500 1693085580000)
+2023-08-26 23:59:39,205 WARNING :: Bitmex XBTUSD: 201705 milliseconds of difference between the current time and the trade time
+2023-08-26 23:59:39,205 INFO :: Bitmex missing 71 candles for XBTUSD 1m (1693090577500 1693086240000)
+2023-08-26 23:59:39,211 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-08-26 23:59:40,329 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-08-26 23:59:40,331 INFO :: Bitmex current XBT balance = 0.01, contracts number = 5.2345999999999995
+2023-08-26 23:59:40,331 INFO :: Short signal on XBTUSD 1m
+2023-08-26 23:59:40,332 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-08-26 23:59:41,497 DEBUG :: https://testnet.bitmex.com:443 "POST /api/v1/order?symbol=XBTUSD&side=Sell&orderQty=0&ordType=Market HTTP/1.1" 400 65
+2023-08-26 23:59:41,498 ERROR :: Error while making POST request to /api/v1/order: {'error': {'message': 'Invalid orderQty', 'name': 'ValidationError'}} (error code 400)
+2023-08-27 00:00:03,450 INFO :: Binance missing 42 candles for BTCUSDT 1m (1693090804472 1693088220000)
+2023-08-27 00:01:06,568 INFO :: Binance New candle for BTCUSDT 1m
+2023-08-27 00:01:41,302 WARNING :: Binance Websocket connection closed
+2023-08-27 00:01:41,444 WARNING :: Bitmex Websocket connection closed
+2023-08-28 15:41:48,506 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-08-28 15:41:50,885 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-08-28 15:41:50,898 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-08-28 15:41:52,624 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1693233710898&signature=708ff87d4174301f864dba739f11b3508068c6ef0c01538c1185f123a12572bd HTTP/1.1" 400 87
+2023-08-28 15:41:52,625 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-28 15:41:52,636 INFO :: Binance Futures Client successfully initialized
+2023-08-28 15:41:52,637 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-08-28 15:41:53,621 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-08-28 15:41:53,658 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-08-28 15:41:54,467 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-08-28 15:41:54,472 INFO :: Bitmex Client successfully initialized
+2023-08-28 15:41:54,879 INFO :: Binance connection opened
+2023-08-28 15:41:54,882 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-08-28 15:41:55,606 INFO :: Bitmex connection opened
+2023-08-28 15:56:12,863 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-08-28 15:56:14,412 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/klines?symbol=BTCUSDT&interval=15m&limit=1000 HTTP/1.1" 200 None
+2023-08-28 15:56:14,662 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2023-08-28 15:57:17,446 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-08-28 15:57:19,418 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/klines?symbol=BTCUSDT&interval=5m&limit=1000 HTTP/1.1" 200 None
+2023-08-28 15:58:41,020 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-08-28 15:58:42,066 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/trade/bucketed?symbol=XBTUSD&partial=True&binSize=5m&count=500&reverse=True HTTP/1.1" 200 None
+2023-08-28 16:06:42,287 INFO :: Bitmex missing 1 candles for XBTUSD 5m (1693235203307 1693234500000)
+2023-08-28 16:14:03,752 WARNING :: Binance Websocket connection closed
+2023-08-28 16:14:03,907 WARNING :: Bitmex Websocket connection closed
+2023-08-28 16:15:32,798 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-08-28 16:15:35,063 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-08-28 16:15:35,080 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-08-28 16:15:37,109 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1693235735078&signature=5fa69e07293b9f20efaf91990c895052308709a32ed1e012d37f47d849e0f8c6 HTTP/1.1" 400 87
+2023-08-28 16:15:37,109 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2023-08-28 16:15:37,112 INFO :: Binance Futures Client successfully initialized
+2023-08-28 16:15:37,113 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-08-28 16:15:38,492 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-08-28 16:15:38,540 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-08-28 16:15:39,364 INFO :: Binance connection opened
+2023-08-28 16:15:39,365 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-08-28 16:15:39,964 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-08-28 16:15:39,972 INFO :: Bitmex Client successfully initialized
+2023-08-28 16:15:41,004 INFO :: Bitmex connection opened
